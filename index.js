@@ -1,1 +1,1 @@
-module.exports = require('./lib/cucub-server');
+module.exports = require('./lib/cucub-vm');
